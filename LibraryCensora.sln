@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCensora", "LibraryCensora\LibraryCensora.csproj", "{C5EEA862-C16F-420F-9638-E84D1CFC1708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CensoraTests", "CensoraTests\CensoraTests.csproj", "{8E8250FC-0F70-4766-80C0-D1C07FAABD7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5EEA862-C16F-420F-9638-E84D1CFC1708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EEA862-C16F-420F-9638-E84D1CFC1708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EEA862-C16F-420F-9638-E84D1CFC1708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EEA862-C16F-420F-9638-E84D1CFC1708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8250FC-0F70-4766-80C0-D1C07FAABD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8250FC-0F70-4766-80C0-D1C07FAABD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8250FC-0F70-4766-80C0-D1C07FAABD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8250FC-0F70-4766-80C0-D1C07FAABD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C8D9B1F-1373-46E8-9456-0403A6BB2DC4}
+	EndGlobalSection
+EndGlobal
